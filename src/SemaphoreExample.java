@@ -1,3 +1,7 @@
+// Or Bar Califa 318279429
+// Daniel Fradkin 316410885
+// Git: https://github.com/orbarkalifa/work4.git
+
 import java.util.concurrent.*;
 
 public class SemaphoreExample {

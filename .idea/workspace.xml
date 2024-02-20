@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1754027-aa25-4c3b-a861-3d81f16719c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SemaphoreExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work4_318279429_316410885.iml" afterDir="false" />
+    <list default="true" id="b1754027-aa25-4c3b-a861-3d81f16719c5" name="Changes" comment="working Q2">
+      <change beforePath="$PROJECT_DIR$/src/SemaphoreExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SemaphoreExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +59,24 @@
       <updated>1708258341776</updated>
       <workItem from="1708258342832" duration="2463000" />
       <workItem from="1708354287912" duration="9000" />
-      <workItem from="1708454288216" duration="768000" />
+      <workItem from="1708454288216" duration="1001000" />
     </task>
+    <task id="LOCAL-00001" summary="working Q2">
+      <option name="closed" value="true" />
+      <created>1708455244505</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708455244505</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working Q2" />
+    <option name="LAST_COMMIT_MESSAGE" value="working Q2" />
   </component>
 </project>
